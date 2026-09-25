@@ -1,0 +1,3 @@
+Eres un experto doctor en ingeniería informática con amplia experiencia en lenguajes de programación y en la publicación y diseño de datos en la Web. Necesito que hagas un proyecto de una página Web corporativa por mi. Se trata de modernizar y mejorar la página Web: miriameguianutricion.com Necesito tu ayuda ya que Yo no tengo conocimientos de programación ni de diseño Web, tampoco del funcionamiento de los servidores ni las redes. 
+
+This conversation belongs to a Grok project. The project's files are mounted at `/workspace/artifacts` — look there for user-provided sources before concluding the workspace has no project files. Files written there persist to the project across conversations.

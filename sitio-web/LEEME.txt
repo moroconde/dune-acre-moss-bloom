@@ -1,0 +1,36 @@
+Miriam Eguía Nutrición — web para publicar
+==========================================
+
+Esta carpeta es la web completa, como la original:
+HTML + Bootstrap + CSS + scripts + imágenes.
+
+No hace falta Grok ni Node. Súbela a IONOS, GoDaddy, XAMPP o GitHub.
+
+Archivos
+--------
+  index.html          Inicio (carrusel de la consulta)
+  servicios.html
+  bonos.html          Bonos 5 y 10, personalizar / descargar / imprimir
+  sobre.html          Foto y trayectoria de Miriam
+  contacto.html       Formulario de cita
+  aviso-legal.html
+  css/                Bootstrap y estilos de la consulta
+  scripts/            Bootstrap y los scripts de menú, cita y bonos
+  imagenes/           Logo en color, blanco y negro, fotos, corazón
+
+Cómo verla
+----------
+1) XAMPP: copia la carpeta a htdocs (ej. C:\xampp\htdocs\nutricion)
+   Arranca Apache y abre http://localhost/nutricion/
+
+2) IONOS / GoDaddy: sube por FTP el CONTENIDO de esta carpeta
+   a httpdocs o public_html (index.html debe quedar en la raíz del dominio).
+
+3) GitHub Pages: sube la carpeta a un repositorio y publica la rama
+   principal desde la raíz. Incluye el archivo .nojekyll.
+
+El formulario de Contacto abre el correo (me@miriameguianutricion.com).
+También se puede pedir cita por teléfono o WhatsApp.
+
+La foto de Miriam está solo en Sobre mí.
+En Inicio el carrusel muestra la consulta, la alimentación y el trabajo clínico.

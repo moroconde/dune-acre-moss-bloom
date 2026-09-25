@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Miriam Eguía Nutrición — Consulta en Santander",
+      "hasCanvas": false,
+      "bodyTextLen": 2234,
+      "bodyTextHash": "d0a0ac428a99e5004b47be2ecae0dac8dc363239ed5b9bae716426cb308381a7",
+      "bodyTextPrefix": "Inicio Servicios Bonos Sobre mí Contacto 648 125 035 Reservar ci",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/preview-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Miriam Eguía Nutrición — Consulta en Santander",
+      "hasCanvas": false,
+      "bodyTextLen": 2167,
+      "bodyTextHash": "a8ff61591b570f78d6f30c9920bfe75ea952c176744ea810937f9de11af6ee65",
+      "bodyTextPrefix": "CONSULTA PRESENCIAL Un espacio de trabajo clínico, con tiempo pa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/preview-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/preview-home.json"
+}

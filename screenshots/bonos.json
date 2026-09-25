@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8080/bonos",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bonos de 5 y 10 sesiones — Miriam Eguía Nutrición",
+      "hasCanvas": false,
+      "bodyTextLen": 2845,
+      "bodyTextHash": "17cc3a21b3d4586c71b6ab380ee5513c489869d443b5f13b73495b968ab94c40",
+      "bodyTextPrefix": "Inicio Servicios Bonos Sobre mí Contacto 648 125 035 Reservar ci",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [
+        "Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\nhttps://react.dev/link/hydration-mismatch\n\n  ...\n    <MatchInnerImpl match={{id:\"/bonos...\", ...}}>\n      <Lazy>\n        <BonosPage>\n          <main className=\"print-root...\">\n            <header>\n            <div>\n            <section className=\"mt-12\">\n              <VoucherStudio>\n                <div className=\"grid gap-1...\">\n                  <div>\n                    <div>\n                    <div className=\"no-print\">\n                      <VoucherCard kind={5} face=\"front\" fields={{para:\"\",de:\"\", ...}} className=\"w-full\">\n                        <article className=\"voucher-ca...\" data-kind={5} data-face=\"front\" style={{...}}>\n                          <img>\n                          <div>\n                          <div>\n                          <div>\n                          <CornerMarks>\n                          <div className=\"relative f...\">\n                            <header>\n                            <div>\n                            <footer className=\"grid grid-...\" style={{...}}>\n                              <p>\n                              <p>\n                              <p className=\"col-span-2...\">\n                                <span>\n                                <span className=\"tabular-nu...\">\n+                                 {\" · ME-5-1236\"}\n-                                 {\" · ME-5-5001\"}\n                    ...\n                  ...\n"
+      ],
+      "screenshot": "/workspace/screenshots/bonos.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bonos de 5 y 10 sesiones — Miriam Eguía Nutrición",
+      "hasCanvas": false,
+      "bodyTextLen": 2778,
+      "bodyTextHash": "29cdf8ca4cde90226686ab988823f93def752c149db6cdf0450fd044305b5f1b",
+      "bodyTextPrefix": "CONSULTA DE NUTRICIÓN MÉDICA Bonos de 5 y 10 sesiones Dos tarjet",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [
+        "Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\nhttps://react.dev/link/hydration-mismatch\n\n  ...\n    <MatchInnerImpl match={{id:\"/bonos...\", ...}}>\n      <Lazy>\n        <BonosPage>\n          <main className=\"print-root...\">\n            <header>\n            <div>\n            <section className=\"mt-12\">\n              <VoucherStudio>\n                <div className=\"grid gap-1...\">\n                  <div>\n                    <div>\n                    <div className=\"no-print\">\n                      <VoucherCard kind={5} face=\"front\" fields={{para:\"\",de:\"\", ...}} className=\"w-full\">\n                        <article className=\"voucher-ca...\" data-kind={5} data-face=\"front\" style={{...}}>\n                          <img>\n                          <div>\n                          <div>\n                          <div>\n                          <CornerMarks>\n                          <div className=\"relative f...\">\n                            <header>\n                            <div>\n                            <footer className=\"grid grid-...\" style={{...}}>\n                              <p>\n                              <p>\n                              <p className=\"col-span-2...\">\n                                <span>\n                                <span className=\"tabular-nu...\">\n+                                 {\" · ME-5-4112\"}\n-                                 {\" · ME-5-8349\"}\n                    ...\n                  ...\n"
+      ],
+      "screenshot": "/workspace/screenshots/bonos-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/bonos.json"
+}

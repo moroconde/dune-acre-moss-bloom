@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8765/sobre.html",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sobre mí — Dra. Miriam Eguía Llosa",
+      "hasCanvas": false,
+      "bodyTextLen": 1882,
+      "bodyTextHash": "b3f82ec74e7bc3f5e8b4f95af1b437f15e77ff545087ede15e32d5966ed87e14",
+      "bodyTextPrefix": "Inicio Servicios Bonos Sobre mí Contacto Reservar cita SOBRE MÍ ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/static-sobre.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sobre mí — Dra. Miriam Eguía Llosa",
+      "hasCanvas": false,
+      "bodyTextLen": 1827,
+      "bodyTextHash": "bbbf872dee71a7536c9cb52a4f8ac32f1430855f768510f6a1326dfc53a54dd9",
+      "bodyTextPrefix": "SOBRE MÍ Hola, soy Miriam Eguía. «Una adecuada alimentación repe",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/static-sobre-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/static-sobre.json"
+}

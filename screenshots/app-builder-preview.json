@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Miriam Eguía Nutrición — Consulta en Santander",
+      "hasCanvas": false,
+      "bodyTextLen": 2302,
+      "bodyTextHash": "6d3437e674259c4f73c1ce4e8dc587b0f6b4c08ecb0f992736eda850b700f050",
+      "bodyTextPrefix": "Inicio Servicios Bonos Sobre mí Contacto 648 125 035 Reservar ci",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Miriam Eguía Nutrición — Consulta en Santander",
+      "hasCanvas": false,
+      "bodyTextLen": 2235,
+      "bodyTextHash": "df151c3fbd4f4161ff722e914f5b8b75d0ee4e2cee620ba0179e2d3b69346ca0",
+      "bodyTextPrefix": "CONSULTA DE NUTRICIÓN MÉDICA EN SANTANDER Te acompaño a cuidar t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

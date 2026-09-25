@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/bonos",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bonos de 5 y 10 sesiones — Miriam Eguía Nutrición",
+      "hasCanvas": false,
+      "bodyTextLen": 2848,
+      "bodyTextHash": "8bef81a04ed8b715ad535013d04161a67d0f4ce58e1f0a8d73aecc06a0141496",
+      "bodyTextPrefix": "Inicio Servicios Bonos Sobre mí Contacto 648 125 035 Reservar ci",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/bonos3.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bonos de 5 y 10 sesiones — Miriam Eguía Nutrición",
+      "hasCanvas": false,
+      "bodyTextLen": 2781,
+      "bodyTextHash": "1624915e537bfc2e4dd63290d07346bb4615143ae8d8437d963103c1674c6051",
+      "bodyTextPrefix": "CONSULTA DE NUTRICIÓN MÉDICA Bonos de 5 y 10 sesiones Dos tarjet",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/bonos3-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/bonos3.json"
+}
